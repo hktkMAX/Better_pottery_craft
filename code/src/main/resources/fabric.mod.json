@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "better_pottery_craft",
+  "version": "${version}",
+  "name": "Better Pottery Craft",
+  "description": "A pottery-making process with clay bodies, a pottery wheel, a kiln, and glazed vessels.",
+  "authors": ["Better Pottery Craft"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.betterpotterycraft.BetterPotteryCraft"]
+  },
+  "depends": {
+    "fabricloader": ">=0.20.1",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","category":"misc","pattern":[" S ","SCS"," P "],"key":{"S":{"item":"minecraft:stick"},"C":{"item":"minecraft:clay_ball"},"P":{"item":"minecraft:stone_slab"}},"result":{"id":"better_pottery_craft:pottery_wheel"}}
